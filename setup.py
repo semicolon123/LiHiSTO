@@ -11,9 +11,9 @@ setup(
     description="A package with a comprehensive list of 820 Hindi Stopwords",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/semicolon123/sampleproject",
+    url="https://github.com/semicolon123/LiHiSTO",
     project_urls={
-        "Bug Tracker": "https://github.com/semicolon123/sampleproject/issues",
+        "Bug Tracker": "https://github.com/semicolon123/LiHiSTO/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
