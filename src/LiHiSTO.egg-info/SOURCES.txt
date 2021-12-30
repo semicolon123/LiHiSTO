@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/LiHiSTO.egg-info/PKG-INFO
+src/LiHiSTO.egg-info/SOURCES.txt
+src/LiHiSTO.egg-info/dependency_links.txt
+src/LiHiSTO.egg-info/top_level.txt
+src/stopwords_hindi/__init__.py
+src/stopwords_hindi/final_hindi_stopwords.txt
+src/stopwords_hindi/hindi_sw.py

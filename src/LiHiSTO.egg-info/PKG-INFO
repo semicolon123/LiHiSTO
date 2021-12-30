@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
-Name: example-pkg-semicolon123nnn
-Version: 0.0.29
-Summary: A small example package
-Home-page: https://github.com/semicolon123/sampleproject
+Name: LiHiSTO
+Version: 0.0.1
+Summary: A package with a comprehensive list of 820 Hindi Stopwords
+Home-page: https://github.com/semicolon123/LiHiSTO
 Author: Swati Rajwal
 Author-email: rajwalswati213@gmail.com
 License: UNKNOWN
-Project-URL: Bug Tracker, https://github.com/semicolon123/sampleproject/issues
+Project-URL: Bug Tracker, https://github.com/semicolon123/LiHiSTO/issues
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
@@ -14,9 +14,9 @@ Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-# Example Package
+# LiHiSTO: List of Hindi STOpwords
 
-This is a simple example package. You can use
+A package with a comprehensive list of 820 Hindi Stopwords. You can use
 [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 to write your content.
 
