@@ -4,7 +4,7 @@ A package with a comprehensive list of 820 Hindi Stopwords.
 ## Installation
 
 ```bash
-pip install LiHiSTO==0.0.1
+pip install LiHiSTO==0.0.2
 ```
 
 ## Usage

@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="LiHiSTO",
-    version="0.0.1",
+    version="0.0.2",
     author="Swati Rajwal",
     author_email="rajwalswati213@gmail.com",
     description="A package with a comprehensive list of 820 Hindi Stopwords",
