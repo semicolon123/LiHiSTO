@@ -20,17 +20,14 @@ pip install LiHiSTO==0.0.2
 ## Citation ##
 If you find this useful, please cite the work as follows:
 
-    @article{Swati2022,
-        title = {LiHiSTO: a Comprehensive List of Hindi Stopwords},
-        author = {Rajwal, Swati},
-        journal = {},
-        year = {2022},
-        month = {},
-        volume = {}, 
-        number = {}, 
-        pages = {}, 
-        doi = {}, 
-        ISSN = {}, 
+    @article{rajwal2023lihisto,
+      title={LiHiSTO: a comprehensive list of Hindi stopwords},
+      author={Rajwal, Swati},
+      journal={Multimedia Tools and Applications},
+      pages={1--13},
+      year={2023},
+      doi={https://link.springer.com/article/10.1007/s11042-023-17205-9}
+      publisher={Springer}
     }
 
 ## Licence ##
