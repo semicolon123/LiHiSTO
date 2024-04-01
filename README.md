@@ -31,5 +31,7 @@ If you find this useful, please cite the work as follows:
     }
 <img src="https://github.com/semicolon123/LiHiSTO/assets/145946818/6f0eda0f-1339-43da-9a50-3c528175ab63" width="50%" height="auto"/>
 
+## 📖Read more
+https://link.springer.com/article/10.1007/s11042-023-17205-9
 ## 🪪Licence
 - MIT License
