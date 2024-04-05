@@ -1,4 +1,4 @@
-# LiHiSTO: List of Hindi STOpwords
+# LiHiSTO: a comprehensive list of Hindi stopwords
 A package with a comprehensive list of 820 Hindi Stopwords.
 
 ## ℹInstallation
